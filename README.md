@@ -4,5 +4,5 @@
 
 This is a simple hello world console application. It includes:
 
-- C#
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
