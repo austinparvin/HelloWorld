@@ -1,4 +1,4 @@
-![](https://recordit.co/ZO4yXCrESf)
+![](http://g.recordit.co/9YeCHoMc6Y.gif)
 
 # Hello World Console App
 
